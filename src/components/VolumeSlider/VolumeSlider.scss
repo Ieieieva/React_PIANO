@@ -1,0 +1,18 @@
+.slider {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 15px;
+}
+
+.slider__label {
+  color: white;
+  font-family: "Courgette", cursive;
+  text-shadow: -2px 2px 0px rgba(239, 197, 13, 0.8);
+}
+
+.slider__input {
+  accent-color: gold;
+}
